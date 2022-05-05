@@ -1,0 +1,2 @@
+# terravars
+Terraform variables generator.
