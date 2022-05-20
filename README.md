@@ -1,6 +1,6 @@
-# terravars
-Terraform variables generator.
-Generate and format variable Terraform file.
+# Terraripper 🔪
+
+Ripper your Terraform files, change, format and make what you want.
 
 
 # TODO:
